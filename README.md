@@ -1,6 +1,6 @@
 # 基本仕様
 - プログラミング言語:Java
-- GUIライブラリ:processing
+- GUIライブラリ:controlP5
 
 # 使用方法
 1. あいう
