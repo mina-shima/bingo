@@ -1,5 +1,5 @@
 # 基本仕様
-- プログラミング言語:Java
+- プログラミング言語:Processing(Java)
 - GUIライブラリ:controlP5
 
 # 使用方法
