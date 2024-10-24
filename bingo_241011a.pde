@@ -21,9 +21,9 @@ void setup(){
   BingoBtn.setFont(font);
   BingoBtn.setId(10);
   
-  displayTextarea=cp5.addTextarea("Data");//名前がDataのTextareaを追加
+  displayTextarea=cp5.addTextarea("Data");
   displayTextarea.setPosition(0,0);
-  displayTextarea.setSize(300,600);//(0,320)の位置に(600)180)のTextareaをつける
+  displayTextarea.setSize(300,600);
   displayTextarea.setColorBackground(color(0,0,0));
   displayTextarea.setColorForeground(color(255,255,255));
   displayTextarea.setFont(font);
